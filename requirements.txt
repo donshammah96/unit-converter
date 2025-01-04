@@ -1,0 +1,2 @@
+# List of dependencies for the Unit Converter project
+Django>=3.2,<4.0
